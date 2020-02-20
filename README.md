@@ -12,3 +12,4 @@ These are a few of my favorite things:
 - Not editing directly on GitHub
 - getting sleep
 - Coffee
+- Tea
